@@ -1,0 +1,12 @@
+{
+  "name": "digital-native",
+  "displayName": "digital-native",
+  "expo": {
+    "name": "digital-native",
+    "slug": "digital-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
