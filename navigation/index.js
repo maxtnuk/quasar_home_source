@@ -49,7 +49,7 @@ function LogoTitle() {
             navigation.navigate("Home")
             }
         }>
-         Digital Native
+         Quasar
      </Text>
     </View>
 }
